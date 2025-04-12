@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aadesh Srivastav</h1>
-<h3 align="center">A passionate Java developer from India</h3>
+<h3 align="center">A passionate about Java development</h3>
+<img align="right" alt="Coding" width="400" src=" https://cdn.dribbble.com/users/116207..."></img>
 
-- 🔭 I’m currently working on **Java Development and Mern Stack**
+- 🔭 I’m currently working on **Java Development and i have knowledge about MERN Stack**
 
 - 🌱 I’m currently learning **Java Development**
 
