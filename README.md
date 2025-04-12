@@ -3,15 +3,15 @@
 <h3 align="center">A passionate about Java development</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img>
 
-- 🔭 I’m currently working on **Java Development and i have knowledge about MERN Stack**
+- 🔭 I’m currently working on **Java Development and Mern Stack**
 
-- 🌱 I’m currently learning **Java Development**
+- 🌱 I’m currently learning **Java Development,MERN Stack,HTML,CSS,JvaScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aadeshsrivastav](https://github.com/aadeshsrivastav)
 
 - 💬 Ask me about **Java ,HTML,CSS,JavaScript, MongoDB , Express.js ,React.js , Node.js**
 
-- 📫 How to reach me **aadesh.svm@gmail.com** 
+- 📫 How to reach me **aadesh.svm@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,4 +24,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadeshsrivastav&show_icons=true&locale=en&layout=compact" alt="aadeshsrivastav" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aadeshsrivastav&show_icons=true&locale=en" alt="aadeshsrivastav" /></p>
+
 
