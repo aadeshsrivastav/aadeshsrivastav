@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aadesh Srivastav</h1>
 <h3 align="center">A passionate about Java development</h3>
-<img align="right" alt="Coding" width="400" src=" https://cdn.dribbble.com/users/116207..."></img>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img>
 
 - 🔭 I’m currently working on **Java Development and i have knowledge about MERN Stack**
 
